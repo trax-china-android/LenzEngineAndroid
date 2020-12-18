@@ -22,9 +22,9 @@ Partner access with LenzEngineLibrary
     implementation 'com.trax.lenzengine:lenzengine:1.3.0@aar'
     
     
- 需要在项目gradle配置maven
+需要在引用module中build.gradle配置maven
  
- Need to configure maven in the project gradle
+Maven needs to be configured in build.gradle in the reference module
  
       repositories {
         maven {
