@@ -3,9 +3,9 @@ Partner access with LenzEngineLibrary
 
 
 ------------
-***请勿使用0.\*.\*版本,此类型版本均为测试版本***
+***请勿使用0.x.x版本,此类型版本均为测试版本***
 
-***Do not use the 0.\*.\* version, this type of version is a test version***
+***Do not use the 0.x.x version, this type of version is a test version***
 
 
 ------------
