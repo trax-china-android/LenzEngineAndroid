@@ -33,5 +33,7 @@ Partner access with LenzEngineLibrary
     }
     
     
+***请勿使用 implementation 'com.trax.lenzengine:lenzengine:+@aar' 引用方式***
+
 ------------
 ***更多调用及接入说明等详细内容请查看文档***
